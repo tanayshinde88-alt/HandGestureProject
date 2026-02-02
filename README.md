@@ -99,3 +99,22 @@ Try different SVM kernels
 Add real-time gesture detection
 
 Save and load trained models
+
+
+
+
+Note:
+The dataset is not included due to size limits.
+Download it from: <https://www.kaggle.com/datasets/gti-upm/leapgestrecog>
+
+Place it in the folder:
+
+leapGestRecog/00
+
+
+Inside that, you should have:
+
+leapGestRecog/00/01
+leapGestRecog/00/02
+leapGestRecog/00/03
+...
